@@ -1,0 +1,17 @@
+
+ul
+{
+    list-style-type: none;
+}
+ .movie-card  a
+ {
+      color: red;
+ }
+ .movie-card  a:hover
+ {
+     padding-bottom: 20px;
+      border-bottom: 1px solid green;
+ }
+h3{
+    padding-top: 10px;
+}
