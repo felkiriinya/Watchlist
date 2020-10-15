@@ -1,3 +1,7 @@
+body{
+    background-color: black;
+    color: white;
+}
 .posterPath
 {
     padding-bottom: 40%;
@@ -26,6 +30,6 @@ p
 .ratings
 {
     text-align: right;
-    color: red;
+    color: rgb(0, 255, 34);
 
 }
